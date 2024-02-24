@@ -12,7 +12,7 @@ Cross-Platform Compatibility: Virtual Cursor works seamlessly across different o
 Installation
 
 To install Virtual Cursor, follow these steps:
-Clone the repository: git clone https://github.com/yourusername/virtual-cursor.git
+Clone the repository: git clone https://github.com/stephenthangaraja/virtual-cursor.git
 Navigate to the project directory: cd virtual-cursor
 Install dependencies: npm install
 Run the application: npm start
